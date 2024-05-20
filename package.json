@@ -1,0 +1,17 @@
+{
+  "name": "None",
+  "version": "1.0.0",
+  "description": "Converted Kotlin project to TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "ts-node": "^9.0.0"
+  }
+}
